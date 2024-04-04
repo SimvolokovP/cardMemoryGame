@@ -1,0 +1,11 @@
+.result-panel {
+    margin-bottom: 60px;
+    border-bottom: 2px solid #FEEA30;
+    color: #fff;
+    font-size: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+    max-width: 1200px;
+}
